@@ -1,5 +1,5 @@
 ## 👋🏻 Olá, eu sou o Silvio Castro, seja bem vindo !
-### Veja no meu site todas as minhas anotações das tecnologias que aprendo ao longo do tempo:
+### Dá uma olhada na minha base de conhecimento, nela posto tudo o que aprendo, estudo e desenvolvo:
 [![Blog](https://img.shields.io/badge/Notion-fff?style=for-the-badge&logo=notion&logoColor=black)](https://longing-dawn-c12.notion.site/205587c41f92414ead9b4ce1795958c3?v=08b1f4815f804105956d30ffdd7fa3c2&pvs=4)
 
 ### Se quiser entrar em contato comigo, pode me procurar em:
