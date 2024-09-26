@@ -1,6 +1,6 @@
 ## 👋🏻 Olá, eu sou o Silvio Castro, seja bem vindo !
 ### Dá uma olhada na minha base de conhecimento, nela posto tudo o que aprendo, estudo e desenvolvo:
-[![Blog](https://img.shields.io/badge/Notion-fff?style=for-the-badge&logo=notion&logoColor=black)](bit.ly/central-silvio006.com)
+[![Blog](https://img.shields.io/badge/Notion-fff?style=for-the-badge&logo=notion&logoColor=black)](bit.ly/central-silvio006)
 
 ### Se quiser entrar em contato comigo, pode me procurar em:
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/392487786122444800)
